@@ -15,6 +15,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/saksham12sahu/DSA_Series/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/saksham12sahu/DSA_Series/tree/master/0069-sqrtx) |
 | [0279-perfect-squares](https://github.com/saksham12sahu/DSA_Series/tree/master/0279-perfect-squares) |
 ## Simulation
 |  |
@@ -40,4 +41,5 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham12sahu/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/saksham12sahu/DSA_Series/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
