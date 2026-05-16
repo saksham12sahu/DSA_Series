@@ -16,6 +16,7 @@
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/saksham12sahu/DSA_Series/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saksham12sahu/DSA_Series/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/saksham12sahu/DSA_Series/tree/master/0279-perfect-squares) |
 ## Simulation
 |  |
@@ -38,13 +39,24 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham12sahu/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/saksham12sahu/DSA_Series/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham12sahu/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/saksham12sahu/DSA_Series/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saksham12sahu/DSA_Series/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
