@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
 | [0541-reverse-string-ii](https://github.com/saksham12sahu/DSA_Series/tree/master/0541-reverse-string-ii) |
 ## Math
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
 | [0279-perfect-squares](https://github.com/saksham12sahu/DSA_Series/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
 ## Breadth-First Search
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saksham12sahu/DSA_Series/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
