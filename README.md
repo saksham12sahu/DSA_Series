@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
 | [0541-reverse-string-ii](https://github.com/saksham12sahu/DSA_Series/tree/master/0541-reverse-string-ii) |
 ## Math
@@ -26,10 +27,12 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/saksham12sahu/DSA_Series/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0279-perfect-squares](https://github.com/saksham12sahu/DSA_Series/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
 ## Breadth-First Search
