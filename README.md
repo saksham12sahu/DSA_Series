@@ -11,6 +11,7 @@
 | [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/saksham12sahu/DSA_Series/tree/master/0079-word-search) |
 | [0541-reverse-string-ii](https://github.com/saksham12sahu/DSA_Series/tree/master/0541-reverse-string-ii) |
 ## Math
