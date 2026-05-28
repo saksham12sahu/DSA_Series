@@ -49,6 +49,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksham12sahu/DSA_Series/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham12sahu/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/saksham12sahu/DSA_Series/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/saksham12sahu/DSA_Series/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/saksham12sahu/DSA_Series/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saksham12sahu/DSA_Series/tree/master/0075-sort-colors) |
@@ -94,6 +95,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/saksham12sahu/DSA_Series/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/saksham12sahu/DSA_Series/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
