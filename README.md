@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saksham12sahu/DSA_Series/tree/master/0075-sort-colors) |
 | [0541-reverse-string-ii](https://github.com/saksham12sahu/DSA_Series/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saksham12sahu/DSA_Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/saksham12sahu/DSA_Series/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/saksham12sahu/DSA_Series/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/saksham12sahu/DSA_Series/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saksham12sahu/DSA_Series/tree/master/0079-word-search) |
 | [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saksham12sahu/DSA_Series/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/saksham12sahu/DSA_Series/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
