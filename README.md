@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/saksham12sahu/DSA_Series/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/saksham12sahu/DSA_Series/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/saksham12sahu/DSA_Series/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
