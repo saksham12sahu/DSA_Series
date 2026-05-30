@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saksham12sahu/DSA_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/saksham12sahu/DSA_Series/tree/master/0043-multiply-strings) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saksham12sahu/DSA_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saksham12sahu/DSA_Series/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saksham12sahu/DSA_Series/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
