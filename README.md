@@ -38,6 +38,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saksham12sahu/DSA_Series/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/saksham12sahu/DSA_Series/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/saksham12sahu/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/saksham12sahu/DSA_Series/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
 ## Breadth-First Search
@@ -54,6 +55,7 @@
 | [0074-search-a-2d-matrix](https://github.com/saksham12sahu/DSA_Series/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saksham12sahu/DSA_Series/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saksham12sahu/DSA_Series/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/saksham12sahu/DSA_Series/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/saksham12sahu/DSA_Series/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saksham12sahu/DSA_Series/tree/master/0368-largest-divisible-subset) |
 ## Binary Search
